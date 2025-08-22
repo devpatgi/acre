@@ -1,8 +1,6 @@
-# pr4 aka prrrr
+# acre
 
-pr4 = prrrr = pull requests reviewed rigorously and rapidly - for real
-
-😺 An ameowzing script to help people review pull requests from other people. 😺
+acre = augmented code review excellence
 
 ## Misc things to document later
 
